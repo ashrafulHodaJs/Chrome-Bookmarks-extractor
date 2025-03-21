@@ -5,4 +5,4 @@
 
 
 
-  Windows: `.\Extract-ChromeBookmarks.ps1`  
+  Windows: `.\Wndows_Chrome_Bookmarks.ps1`  
